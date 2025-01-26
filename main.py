@@ -8,7 +8,7 @@ import faiss
 import pickle
 import google.generativeai as genai
 
-genai.configure(api_key="Gemini Google AI studio Api")  
+genai.configure(api_key="Google AI Studio Gemini Api")  
 
 def process_pdf(file):
     loader = PyPDFLoader(file_path=file)
