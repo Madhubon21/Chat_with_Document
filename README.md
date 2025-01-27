@@ -43,7 +43,7 @@ Follow these steps to set up a virtual environment for the project:
    Run the following command in your terminal:
    ```bash
    python -m venv venv
-```
+   
 ### Install Dependencies
 Install the required dependencies using the following command:
 ```bash
