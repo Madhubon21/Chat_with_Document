@@ -40,8 +40,13 @@ Ensure the following are installed on your system:
 
 Follow these steps to set up a virtual environment for the project:
 
+### Set Up a Virtual Environment
+
+Follow these steps to set up a virtual environment for the project:
+
 1. **Create the Virtual Environment**  
    Run the following command in your terminal:
    ```bash
    python -m venv venv
+
 
