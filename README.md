@@ -123,4 +123,33 @@ This project utilizes the following development tools:
 ``` bash
 pip install black flake8 isort
 ```
+## Contributing
+We welcome contributions! To contribute to this project:
+1.Fork the repository.
+2.Create a new branch for your feature:
+```bash
+git checkout -b feature-name
+```
+Make your changes and commit them:
+```bash
+git commit -m "Add feature-name"
+```
+Push your changes to your fork:
+```bash
+git push origin feature-name
+```
+Open a pull request to the main repository.
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+We would like to thank the following technologies and resources for making this project possible:
+
+-Google Generative AI
+-Streamlit
+-LangChain
+-FAISS
+-Sentence-Transformers
+-yaml
+
 
