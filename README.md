@@ -1,16 +1,16 @@
-#Doxpert.ai
+# Doxpert.ai
 
 Doxpert.ai is an AI-powered document exploration tool that allows users to interact with PDF documents through natural language queries. It processes large documents, breaks them into manageable chunks, performs semantic search, and provides intelligent, context-aware answers using Google Generative AI.
 
 ---
 
-##Overview
+## Overview
 
 Doxpert.ai simplifies working with large PDF documents by offering an intuitive interface for content analysis and exploration. With its ability to split documents, generate embeddings, and retrieve precise answers from complex queries, it is perfect for professionals, researchers, and students who frequently work with extensive documents.
 
 ---
 
-##Features
+## Features
 
 - Upload and process PDF files into smaller, manageable text chunks.
 - Generate embeddings for text using `SentenceTransformer`.
@@ -20,7 +20,7 @@ Doxpert.ai simplifies working with large PDF documents by offering an intuitive 
 
 ---
 
-##Prerequisites
+## Prerequisites
 
 Ensure the following are installed on your system:
 
