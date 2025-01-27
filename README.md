@@ -107,10 +107,20 @@ Use these tools to maintain code quality:
 Format code:
 ```bash
 black
-``` 
+```
 Lint code:
 ```bash
 flake8 
 ```
+##Development Tools
+This project utilizes the following development tools:
 
+- `Black: A code formatter to ensure consistent style.`
+-`Flake8: A linting tool to catch potential code issues.`
+-`Isort: A tool to sort imports in Python scripts.`
+-`Install these tools using:`
+
+``` bash
+pip install black flake8 isort
+```
 
