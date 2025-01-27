@@ -145,11 +145,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgements
 We would like to thank the following technologies and resources for making this project possible:
 
--Google Generative AI
--Streamlit
--LangChain
--FAISS
--Sentence-Transformers
--yaml
+-Google Generative AI-
+-Streamlit-
+-LangChain-
+-FAISS-
+-Sentence-Transformers-
+-yaml-
 
 
