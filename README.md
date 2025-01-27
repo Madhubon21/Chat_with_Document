@@ -67,7 +67,6 @@ Open your browser and navigate to the URL provided by Streamlit (default: http:/
 The repository is organized as follows:
 
 ```bash
-.
 ├── app.py                # Main application code
 ├── requirements.txt      # Required dependencies
 ├── uploads/              # Directory for storing uploaded files
@@ -88,17 +87,16 @@ This project relies on the following libraries and frameworks:
 ```bash
 pip install -r requirements.txt
 ```
-##Development Setup
+## Development Setup
 Set Up the Development Environment
 Create and activate a virtual environment:
 
 ```bash
-
 python -m venv venv
 source venv/bin/activate       # macOS/Linux
 venv\Scripts\activate          # Windows
 ```
-Install Development Tools
+### Install Development Tools
 Install additional tools for development, such as black, flake8, and isort:
 
 ```bash
