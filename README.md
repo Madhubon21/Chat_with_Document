@@ -104,14 +104,13 @@ pip install black flake8 isort
 ```
 ### Lint and Format Code
 Use these tools to maintain code quality:
-
 Format code:
 ```bash
 black
-``` .
+``` 
 Lint code:
 ```bash
-flake8 .
+flake8 
 ```
 
 
